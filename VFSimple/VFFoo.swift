@@ -13,7 +13,7 @@ open class VFFoo {
     
     public init(){
         print("initialized!")
-        var device = Device()
+        let device = Device()
         print("initialized! \(device)")
         
     }

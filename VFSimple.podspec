@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "8.0"
 
-	s.source = { :git => "https://github.com/mbonati/git_labs.git", :tag => "#{s.version}"}
+	s.source = { :git => "https://github.com/mbonati/VFSimple.git", :tag => "#{s.version}"}
  
 
   s.source_files  = "VFSimple/*"
